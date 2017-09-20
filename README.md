@@ -1,6 +1,5 @@
 # Implementation of the Coppersmith's method
 
-## Algorithm 1(plain)
 **Input**:
 
 RSA-type composite N 
