@@ -1,0 +1,25 @@
+N = 671569085744418700754551
+size of N is 80
+h = O(logN/delta) = 26
+n = h*delta = 78
+size of X: 26
+X = 36389891
+poly = [67250968815694912156971 566904081406647060426601 352751116144340021737932 1]
+root = 31032162
+
+reduction time: 334.86(s)
+The first 78 tuples are non-zero.
+
+length of U(1) is 78
+
+Coppersmith method succeeds.
+
+reduction time: 372.604(s)
+The first 78 tuples are non-zero.
+
+length of U(1) is 78
+
+Rounding succeeds.
+
+terms num: 
+2
