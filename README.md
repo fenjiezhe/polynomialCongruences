@@ -2,9 +2,10 @@
 
 ## Algorithm 1(plain)
 **Input**:
-RSA-type composite N, 
 
-h>=2, 
+RSA-type composite N 
+
+h>=2
 
 integer-coefficient polynomial f(x) with degree delta and coefficients in {0,1,...,N-1}, where 2<delta+1<(logN)/2
 
